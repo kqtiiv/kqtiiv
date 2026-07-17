@@ -50,4 +50,4 @@
 ╰‣ idk what else is suitable to put here (just search up my username in any social media and you might find me)
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFvY2RodzB5MjBtYno4ZWdkaDk5OTU0dnBiY2oyYnJ1bWtiYXl5cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rrasLFSTyi4Th1e8Xo/giphy.gif" width=100> for the funsies
-![](https://github-readme-streak-stats-eight.vercel.app/?user=kqtiiv&theme=radical)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=kqtiiv&theme=tokyonight)
