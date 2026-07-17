@@ -5,7 +5,8 @@
 ╰‣ experimenting with new stuff  
 ╰‣ climbing (best sport)  
 ╰‣ anime  
-╰‣ making useless things with my degree
+╰‣ making useless things with my degree  
+╰‣ cats
 
 ### <img src="https://media.giphy.com/media/W6QMfZdhHiutpCaO8m/giphy.gif" width=35>﹒ programming languages i have used in the past (in some sort of order of preference, but don't take it as a fixed list)
 
