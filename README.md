@@ -31,22 +31,22 @@
 ### <img src="https://media.giphy.com/media/WVFfvpBhOOE7ITMAAo/giphy.gif" width=80>﹒ projects 
 
 <p><em>games</em></p> 
-╰‣ <a href="https://otto-su.itch.io/the-wake-up-call" style="color:#f4a7b9;">the wake up call</a> ﹕ art, code, story  <br>
-╰‣ <a href="https://ohsozozo.itch.io/cooking-comfort" style="color:#f4a7b9;">cooking comfort</a> ﹕ code, story <a href="https://github.com/kqtiiv/Cooking-Comfort" style="color:#f4a7b9;">source code</a>  <br>
-╰‣ <a href="https://kqtiiiv.itch.io/a-catastrophe" style="color:#f4a7b9;">a catastrophe</a> ﹕ art, music, code and story <a href="https://github.com/kqtiiv/very-serious-game" style="color:#f4a7b9;">this one is open source, but i wrote it at 2am</a>  <br>
-╰‣ <a href="https://curlymasala.itch.io/debugger" style="color:#f4a7b9;">debugger</a> ﹕ code  <br>
-╰‣ <a href="https://entrancedthem.itch.io/pigeons-attack" style="color:#f4a7b9;">attack, pigeons!</a> ﹕ art, code  <br>
-╰‣ <a href="https://globalgamejam.org/games/2026/i-love-your-face-8" style="color:#f4a7b9;">i love your face</a> ﹕ code <a href="https://github.com/kqtiiv/GGJ2026" style="color:#f4a7b9;">source code</a>  <br>
+╰‣ <a href="https://otto-su.itch.io/the-wake-up-call"><font color="#f4a7b9">the wake up call</font></a> ﹕ art, code, story  <br>
+╰‣ <a href="https://ohsozozo.itch.io/cooking-comfort"><font color="#f4a7b9">cooking comfort</font></a> ﹕ code, story <a href="https://github.com/kqtiiv/Cooking-Comfort"><font color="#f4a7b9">source code</font></a>  <br>
+╰‣ <a href="https://kqtiiiv.itch.io/a-catastrophe"><font color="#f4a7b9">a catastrophe</font></a> ﹕ art, music, code and story <a href="https://github.com/kqtiiv/very-serious-game"><font color="#f4a7b9">this one is open source, but i wrote it at 2am</font></a>  <br>
+╰‣ <a href="https://curlymasala.itch.io/debugger"><font color="#f4a7b9">debugger</font></a> ﹕ code  <br>
+╰‣ <a href="https://entrancedthem.itch.io/pigeons-attack"><font color="#f4a7b9">attack, pigeons!</font></a> ﹕ art, code  <br>
+╰‣ <a href="https://globalgamejam.org/games/2026/i-love-your-face-8"><font color="#f4a7b9">i love your face</font></a> ﹕ code <a href="https://github.com/kqtiiv/GGJ2026"><font color="#f4a7b9">source code</font></a>  <br>
 ╰‣ some pre-uni games that are private :p  <br>
 
 <br>
 
 <p><em>other</em></p> 
-╰‣ <a href="https://github.com/kqtiiv/vocal-synth" style="color:#f4a7b9;">vocal synth</a> ﹕ make it sing! based off Klatt's research paper  <br>
-╰‣ <a href="https://github.com/kqtiiv?tab=repositories" style="color:#f4a7b9;">look for yourself</a> ﹕ i have a bunch of random public repos u can look at if you want. if you wanna look at a private one then idk how.  <br>
+╰‣ <a href="https://github.com/kqtiiv/vocal-synth"><font color="#f4a7b9">vocal synth</font></a> ﹕ make it sing! based off Klatt's research paper  <br>
+╰‣ <a href="https://github.com/kqtiiv?tab=repositories"><font color="#f4a7b9">look for yourself</font></a> ﹕ i have a bunch of random public repos u can look at if you want. if you wanna look at a private one then idk how.  <br>
 
 ### <img src="https://media.giphy.com/media/ZbfX6DgwiS6TuFvY5d/giphy.gif" width=40>﹒contact
-╰‣ <a href="https://www.linkedin.com/in/kqtiiv/" style="color:#f4a7b9;">linkedin</a>  
+╰‣ <a href="https://www.linkedin.com/in/kqtiiv/"><font color="#f4a7b9">linkedin</font></a>  
 ╰‣ idk what else is suitable to put here (just search up my username in any social media and you might find me)
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFvY2RodzB5MjBtYno4ZWdkaDk5OTU0dnBiY2oyYnJ1bWtiYXl5cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rrasLFSTyi4Th1e8Xo/giphy.gif" width=100> for the funsies
