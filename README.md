@@ -47,7 +47,7 @@
 ╰‣ <a href="https://github.com/kqtiiv?tab=repositories">look for yourself</a> ﹕ i have a bunch of random public repos u can look at if you want. if you wanna look at a private one then idk how.  <br>
 
 ### <img src="https://media.giphy.com/media/ZbfX6DgwiS6TuFvY5d/giphy.gif" width=40>﹒connect
-<a href="https://www.linkedin.com/in/kqtiiv/" target="blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin" height="30" width="40" /></a><a href="https://www.leetcode.com/u/user0149zF/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kqtiiv/" target="blank"><img align="center" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin" height="30" width="40" /></a><a href="https://www.leetcode.com/u/kqtiiv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 
 ╰‣ idk what else is suitable to put here (just search up my username in any social media and you might find me)
 
