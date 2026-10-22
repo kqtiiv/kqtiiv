@@ -44,6 +44,8 @@
 
 <p><em>other</em></p> 
 ╰‣ <a href="https://github.com/kqtiiv/vocal-synth">vocal synth</a> ﹕ make it sing! based off Klatt's research paper  <br>
+╰‣ <a href="https://meowie.lovestoblog.com/">meowie</a> ﹕ a cat website :3  <br>
+╰‣ <a href="https://kqtiiv.nekoweb.org/">nekoweb</a> ﹕ a blog  <br>
 ╰‣ <a href="https://github.com/kqtiiv?tab=repositories">look for yourself</a> ﹕ i have a bunch of random public repos u can look at if you want. if you wanna look at a private one then idk how.  <br>
 
 ### <img src="https://media.giphy.com/media/ZbfX6DgwiS6TuFvY5d/giphy.gif" width=40>﹒connect
